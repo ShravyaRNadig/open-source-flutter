@@ -1,6 +1,6 @@
 # open-source-flutter
 
-![](https://img.shields.io/github/last-commit/tortuvshin/open-source-flutter-apps.svg?label=last%20update&style=flat)
+![](https://img.shields.io/github/last-commit/ShravyaRNadig/open-source-flutter.svg?label=last%20update&style=flat)
 
 <a href="https://flutter.io/">Flutter</a> is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.. The main goal of this repository is to find free open source apps and start contributing to it. Feel free to [contribute](https://github.com/tortuvshin/open-source-flutter-apps/graphs/contributors) to the list, any suggestions are always welcomed!
 
